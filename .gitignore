@@ -1,0 +1,14 @@
+.*.sw[pon]
+*.bundle
+coverage
+tags
+pkg
+.nfs.*
+.idea
+Gemfile.lock
+.rvmrc
+*.rbc
+.rbx
+.AppleDouble
+.DS_Store
+.rspec_status
